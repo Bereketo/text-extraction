@@ -1,0 +1,57 @@
+{
+    "doc_dtls": {
+        "document_type": "",
+        "irn_no": "",
+        "invoice_no": "",
+        "invoice_date": "",
+        "seller_name": "",
+        "seller_gstin": "",
+        "seller_location": "",
+        "buyer_name": "",
+        "buyer_gstin": "",
+        "buyer_location": ""
+    },
+    "item_list": [
+        {
+            "sr_no": 1,
+            "product_name": "",
+            "item_description": "",
+            "hsn_sac_no": "",
+            "qty": "",
+            "unit": "",
+            "unit_price": "",
+            "total_value": "",
+            "disc_rate": "",
+            "disc_amount": "",
+            "taxable_value": "",
+            "other_charges": "",
+            "cgst_rate": "",
+            "sgst_rate": "",
+            "igst_rate": "",
+            "cess_value": "",
+            "total_amount": ""
+        }
+    ],
+    "val_dtls": {
+        "total_value_sum": "",
+        "total_discount": "0",
+        "total_other_charges": "",
+        "total_taxable_value": "",
+        "total_cgst_value": "",
+        "total_sgst_value": "",
+        "total_igst_value": "",
+        "total_gst_value": "1",
+        "total_invoice_value": ""
+    },
+    "extraction_costs": {
+        "doc_dtls_cost": 0,
+        "items_cost": 0.0038532000000000006,
+        "val_dtls_cost": 0.0018368,
+        "gst_extractor_cost": 0.0011756,
+        "ocr_cost": 0.0,
+        "total_cost": 0.009404800000000001,
+        "token_usage": 27034
+    },
+    "request_id": "31d6ce7f-f72d-41dc-b3b8-df9974926acc",
+    "file_type": "INVOICE"
+}
