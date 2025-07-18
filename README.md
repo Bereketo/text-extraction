@@ -35,7 +35,8 @@ source venv/bin/activate     # Linux/macOS
 venv\Scripts\activate        # Windows
 ```
 ### 3. Install dependencies 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 ### 4. Set your api key
@@ -48,5 +49,6 @@ export OPENAI_API_KEY="your-key"
 ```
 
 ### 5. Run the script
-```python llm_parser.py
+```
+python llm_parser.py
 ```
