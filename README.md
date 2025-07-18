@@ -24,8 +24,8 @@ This project extracts structured JSON data from PDF invoices using GPT-4 and a J
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/extract-data.git
-cd extract-data
+git clone https://github.com/bereketo/text-extraction.git
+cd text-extraction
 ```
 
 ### 2. Create virtual environment
